@@ -14,23 +14,23 @@ dataset = load_dataset("sileod/movie_recommendation")
 
 ```
 @InProceedings{sileo-lmrec-2022,
-author="Sileo, Damien
-and Vossen, Wout
-and Raymaekers, Robbe",
-editor="Hagen, Matthias
-and Verberne, Suzan
-and Macdonald, Craig
-and Seifert, Christin
-and Balog, Krisztian
-and N{\o}rv{\aa}g, Kjetil
-and Setty, Vinay",
-title="Zero-Shot Recommendation as Language Modeling",
-booktitle="Advances in Information Retrieval",
-year="2022",
-publisher="Springer International Publishing",
-address="Cham",
-pages="223--230",
-isbn="978-3-030-99739-7"
+  author="Sileo, Damien
+  and Vossen, Wout
+  and Raymaekers, Robbe",
+  editor="Hagen, Matthias
+  and Verberne, Suzan
+  and Macdonald, Craig
+  and Seifert, Christin
+  and Balog, Krisztian
+  and N{\o}rv{\aa}g, Kjetil
+  and Setty, Vinay",
+  title="Zero-Shot Recommendation as Language Modeling",
+  booktitle="Advances in Information Retrieval",
+  year="2022",
+  publisher="Springer International Publishing",
+  address="Cham",
+  pages="223--230",
+  isbn="978-3-030-99739-7"
 }
 
 

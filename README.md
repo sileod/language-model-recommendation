@@ -1,8 +1,8 @@
-# Zero-Shot-Recommendation-with-Language-Modeling
+# Zero-Shot Recommendation with Language Modeling
 Resources accompanying the "Zero-Shot Recommendation as Language Modeling" paper (ECIR2022)
 
 # Huggingface dataset
-We also provide a version of our dataset on Huggingface datasets 🤗
+We provide a version of our dataset on Huggingface datasets 🤗
 ```python
 from datasets import load_dataset
 

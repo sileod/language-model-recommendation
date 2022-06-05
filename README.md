@@ -12,7 +12,7 @@ dataset = load_dataset("sileod/movie_recommendation")
 
 # Citation
 
-```
+```bibtex
 @InProceedings{sileo-lmrec-2022,
   author="Sileo, Damien
   and Vossen, Wout

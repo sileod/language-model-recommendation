@@ -1,17 +1,17 @@
 # Zero-Shot Recommendation with Language Modeling
-Resources accompanying the "Zero-Shot Recommendation as Language Modeling" paper (ECIR2022)
+Resources accompanying the "Zero-Shot Recommendation as Language Modeling" paper published at ECIR2022.
+We show that pretrained large language models are able to perform movie recommendations, and compare few-shot learning results to matrix factorization baselines.
 
 # Huggingface dataset
-We provide a version of our dataset on Huggingface datasets 🤗
+We provide a version of our dataset on Huggingface datasets 🤗:
 ```python
 from datasets import load_dataset
 
 dataset = load_dataset("sileod/movie_recommendation")
 ```
-
+A version of this dataset was also included in BIG-Bench.
 
 # Citation
-
 ```bibtex
 @InProceedings{sileo-lmrec-2022,
   author="Sileo, Damien

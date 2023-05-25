@@ -1,5 +1,5 @@
 # Zero-Shot Recommendation with Language Modeling
-Resources accompanying the "Zero-Shot Recommendation as Language Modeling" paper published at ECIR2022, where we show that pretrained large language models are able to perform movie recommendations, and compare few-shot learning results to matrix factorization baselines.
+Resources accompanying the "Zero-Shot Recommendation as Language Modeling" paper published at ECIR2022, where we show that pretrained large language models can act as a recommender system, and compare few-shot learning results to matrix factorization baselines.
 
 # Huggingface dataset
 We provide a version of our dataset on Huggingface datasets 🤗:
